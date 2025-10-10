@@ -10,6 +10,12 @@ experiences,and selected design project.
 
 i am a Graphic Designer in the making,
 
-passionate about visual design,branding,
+passionate about visual design,branding,and creative work
 
-and creative work
+
+## About Me
+- From: Sambas, West Kalimantan
+- Student at **MH Thamrin University, Jakarta**
+- Focus: Graphic Design
+- Age: 22 Years old
+- My goal is to continuously improve my design and editing skills
