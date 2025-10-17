@@ -1,4 +1,4 @@
-## Personal Website of Debsa Taludin
+## 🌐Personal Website of Debsa Taludin
 
 <img width="794" height="540" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/81317541-8326-4a56-b61f-99bad63d4afb" />
 
@@ -13,7 +13,7 @@ i am a Graphic Designer in the making,
 passionate about visual design,branding,and creative work
 
 
-## About Me
+## 👤About Me
 - From: Sambas, West Kalimantan
 - Student at **MH Thamrin University, Jakarta**
 - Focus: Graphic Design
