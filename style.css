@@ -75,3 +75,11 @@ nav a.active {
     line-height: 1.6;
     max-width: 600px;
 }
+
+/* BLUE FOOTER STRIP */
+.footer-strip {
+    background-color: #3b82f6;
+    height: 15px;
+    width: 100%;
+    margin-top: 60px;
+}
